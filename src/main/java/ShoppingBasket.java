@@ -11,13 +11,21 @@ public class ShoppingBasket {
     }
 
     public double getBasketTotal(){
-        //for each item in array
-        //get cost
-        //add to total
-    
+        for (Item item : items) {
+            basketTotal += item.getPrice();
+        }
         return this.basketTotal;
-
     }
+
+    //public Ticket sellTicket(Destination destination){
+    //        for (int i = 0; i < ticketsForSale.size(); i++) {
+    //            if (ticketsForSale.get(i).getDestination() == destination){
+    //                return ticketsForSale.remove(i);
+    //            }
+    //        }
+    //        return null;
+    //    }
+
 
     public void addItemToBasket(Item item){
         items.add(item);
