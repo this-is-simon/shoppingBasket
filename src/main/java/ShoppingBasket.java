@@ -11,11 +11,20 @@ public class ShoppingBasket {
     }
 
     public double getBasketTotal(){
+        //for each item in array
+        //get cost
+        //add to total
+    
         return this.basketTotal;
+
     }
 
     public void addItemToBasket(Item item){
         items.add(item);
+    }
+
+    public int countItems(){
+        return items.size();
     }
 
 
