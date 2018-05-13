@@ -10,18 +10,6 @@ public class ShoppingBasket {
         this.basketTotal = 0.0;
     }
 
-    public double getBasketTotal(){
-        for (Item item : items) {
-            basketTotal += item.getPrice();
-        }
-
-        if (basketTotal >= 20.0) {
-            applyDiscountOverTwentyPounds();
-        }
-
-        return this.basketTotal;
-    }
-
     public void applyDiscountOverTwentyPounds(){
         if (basketTotal >= 20.0) {
             double discount = basketTotal * 0.1;
@@ -35,6 +23,14 @@ public class ShoppingBasket {
 
     public int countItems(){
         return items.size();
+    }
+
+    public double getBasketTotal(){
+        for (Item item : items) {
+            basketTotal += item.getPrice();
+        }
+        applyDiscountOverTwentyPounds();
+        return this.basketTotal;
     }
 
 }
