@@ -62,8 +62,8 @@
           <file leaf-file-name="ShoppingBasketTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="267">
-                  <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+                <state relative-caret-position="298">
+                  <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#288#289#0" expanded="true" />
@@ -115,8 +115,8 @@
           <file leaf-file-name="ShoppingBasket.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+                <state relative-caret-position="276">
+                  <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
                   <folding>
                     <element signature="e#356#357#0" expanded="true" />
                     <element signature="e#382#383#0" expanded="true" />
@@ -685,24 +685,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PeanutButterTest - 2018.05.13 at 14h 38m 03s.xml">
-      <configuration name="PeanutButterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PeanutButterTest - 2018.05.13 at 14h 39m 37s.xml">
-      <configuration name="PeanutButterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ShoppingBasket_test - 2018.05.13 at 14h 47m 50s.xml">
-      <configuration name="All in ShoppingBasket_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ShoppingBasket_test - 2018.05.13 at 15h 25m 42s.xml">
-      <configuration name="All in ShoppingBasket_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 29m 09s.xml">
-      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 33m 16s.xml">
-      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 33m 22s.xml">
       <configuration name="ShoppingBasketTest" configurationId="JUnit" />
     </history-entry>
@@ -713,6 +695,24 @@
       <configuration name="ShoppingBasketTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 42m 41s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 43m 41s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 43m 57s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 44m 07s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 15h 52m 18s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 16h 10m 46s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest - 2018.05.13 at 16h 10m 58s.xml">
       <configuration name="ShoppingBasketTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -848,8 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="276">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#356#357#0" expanded="true" />
             <element signature="e#382#383#0" expanded="true" />
@@ -861,8 +861,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="298">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />

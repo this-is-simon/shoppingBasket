@@ -14,18 +14,20 @@ public class ShoppingBasket {
         for (Item item : items) {
             basketTotal += item.getPrice();
         }
+
+        if (basketTotal >= 20.0) {
+            applyDiscountOverTwentyPounds();
+        }
+
         return this.basketTotal;
     }
 
-    //public Ticket sellTicket(Destination destination){
-    //        for (int i = 0; i < ticketsForSale.size(); i++) {
-    //            if (ticketsForSale.get(i).getDestination() == destination){
-    //                return ticketsForSale.remove(i);
-    //            }
-    //        }
-    //        return null;
-    //    }
-
+    public void applyDiscountOverTwentyPounds(){
+        if (basketTotal >= 20.0) {
+            double discount = basketTotal * 0.1;
+            basketTotal -= discount;
+        }
+    }
 
     public void addItemToBasket(Item item){
         items.add(item);
@@ -34,6 +36,5 @@ public class ShoppingBasket {
     public int countItems(){
         return items.size();
     }
-
 
 }
