@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="668b366f-d5eb-4d6b-9b6f-beed1ef47764" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/test/classes/MilkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/MilkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MilkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MilkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,7 +23,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="PeanutButterTest.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="PeanutButterTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PeanutButterTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="75">
@@ -40,7 +39,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="MilkTest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="MilkTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/MilkTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
@@ -85,7 +84,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Milk.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Milk.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Milk.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -93,6 +92,21 @@
                   <folding>
                     <element signature="e#89#90#0" expanded="true" />
                     <element signature="e#109#110#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ShoppingBasket.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                  <folding>
+                    <element signature="e#268#269#0" expanded="true" />
+                    <element signature="e#306#307#0" expanded="true" />
+                    <element signature="e#356#357#0" expanded="true" />
+                    <element signature="e#382#383#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -416,6 +430,7 @@
         <option value="$PROJECT_DIR$/src/test/java/PeanutButterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Milk.java" />
         <option value="$PROJECT_DIR$/src/test/java/MilkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" />
       </list>
     </option>
   </component>
@@ -659,9 +674,13 @@
     <history-entry file="PeanutButterTest - 2018.05.13 at 14h 39m 37s.xml">
       <configuration name="PeanutButterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_ShoppingBasket_test - 2018.05.13 at 14h 47m 50s.xml">
+      <configuration name="All in ShoppingBasket_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -671,7 +690,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32744783" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32744783" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -722,13 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ItemTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -744,13 +756,6 @@
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#126#127#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -792,6 +797,26 @@
             <element signature="e#411#412#0" expanded="true" />
             <element signature="e#434#435#0" expanded="true" />
             <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
           </folding>
         </state>
       </provider>
