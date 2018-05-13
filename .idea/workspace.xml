@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="668b366f-d5eb-4d6b-9b6f-beed1ef47764" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PeanutButterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PeanutButterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/MilkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/MilkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MilkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MilkTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,8 +27,8 @@
           <file leaf-file-name="PeanutButterTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/PeanutButterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#88#89#0" expanded="true" />
@@ -43,13 +43,12 @@
           <file leaf-file-name="MilkTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/MilkTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+                <state relative-caret-position="255">
+                  <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#147#148#0" expanded="true" />
                     <element signature="e#208#209#0" expanded="true" />
-                    <element signature="e#249#250#0" expanded="true" />
                     <element signature="e#278#279#0" expanded="true" />
                     <element signature="e#346#347#0" expanded="true" />
                     <element signature="e#411#412#0" expanded="true" />
@@ -64,11 +63,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Item.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -86,7 +85,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Milk.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Milk.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Milk.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -414,8 +413,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Item.java" />
         <option value="$PROJECT_DIR$/src/test/java/ItemTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/PeanutButter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Milk.java" />
         <option value="$PROJECT_DIR$/src/test/java/PeanutButterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Milk.java" />
         <option value="$PROJECT_DIR$/src/test/java/MilkTest.java" />
       </list>
     </option>
@@ -508,9 +507,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PeanutButterTest">
+  <component name="RunManager" selected="JUnit.All in ShoppingBasket_test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in ShoppingBasket_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingBasket_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ShoppingBasket_test" />
@@ -587,9 +603,11 @@
     <list>
       <item itemvalue="JUnit.ItemTest" />
       <item itemvalue="JUnit.PeanutButterTest" />
+      <item itemvalue="JUnit.All in ShoppingBasket_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in ShoppingBasket_test" />
         <item itemvalue="JUnit.PeanutButterTest" />
         <item itemvalue="JUnit.ItemTest" />
       </list>
@@ -606,6 +624,14 @@
       <option name="presentableId" value="Default" />
       <updated>1526216745985</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed org.junit.test">
+      <created>1526218865580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526218865580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -624,10 +650,18 @@
     <history-entry file="PeanutButterTest - 2018.05.13 at 14h 30m 13s.xml">
       <configuration name="PeanutButterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PeanutButterTest - 2018.05.13 at 14h 37m 50s.xml">
+      <configuration name="PeanutButterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeanutButterTest - 2018.05.13 at 14h 38m 03s.xml">
+      <configuration name="PeanutButterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeanutButterTest - 2018.05.13 at 14h 39m 37s.xml">
+      <configuration name="PeanutButterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -637,7 +671,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32744783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32744783" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -661,6 +695,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed org.junit.test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed org.junit.test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/ItemTest.java">
@@ -698,17 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Milk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PeanutButter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -722,15 +749,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PeanutButterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#88#89#0" expanded="true" />
@@ -741,15 +768,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MilkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
