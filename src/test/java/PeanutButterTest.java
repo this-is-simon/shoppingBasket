@@ -4,6 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class PeanutButterTest {
+
     PeanutButter peanutButter1;
 
     @Before
@@ -12,17 +13,17 @@ public class PeanutButterTest {
     }
 
     @Test
-    public void canGetName() {
+    public void hasName() {
         assertEquals("Mr Jones Peanut Butter", peanutButter1.getName());
     }
 
     @Test
-    public void canGetBrand() {
+    public void hasBrand() {
         assertEquals("Mr Jones", peanutButter1.getBrand());
     }
 
     @Test
-    public void canGetPrice() {
+    public void hasPrice() {
         assertEquals(3.50, peanutButter1.getPrice(), 0);
     }
 }
